@@ -1,0 +1,17 @@
+.red {
+  background-color: lightcoral;
+}
+
+.bigger {
+  font-size: 30px;
+}
+
+#one {
+  color: #0000ff;
+  font-size: 40px;
+}
+#two {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
